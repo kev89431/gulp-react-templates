@@ -22,7 +22,7 @@
   "dependencies": {
     "gulp-util": "^3.0.7",
     "merge": "^1.2.0",
-    "react-templates": "^0.5.2",
+    "react-templates": "git+ssh://github.com/kev89431/react-templates.git#46caeea387fead1c62d4837ca5fd700e334ef6c7",
     "through2": "^2.0.0"
   },
   "devDependencies": {
